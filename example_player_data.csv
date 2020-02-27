@@ -1,0 +1,4 @@
+Zeitstempel,Name:,Ich kann an diesen Terminen:,Ich würde gerne frühestens um ____ anfangen. (optional),Spielniveau:,Score,handler / cutter,Jahre Manuell,Ich spiele schon seit _ Jahren.,m/w (manuell),Platzhalter,,,Jahren in python format,,
+17.02.2020 14:22:03,Alice,"09.03., 16.03., 23.03., 30.03., 06.04.",,2,"0,145",c,"0,45","0,45",w,,,,0.45,,
+21.01.2020 13:21:52,Bob,"09.03., 16.03., 23.03., 30.03., 06.04.",19:00,2,"0,15",c,"0,5",0.5,w,,,,0.5,,
+17.02.2020 07:28:49,Carlos,"09.03., 16.03., 30.03., 06.04.",18:00,3,"0,195",c,"0,45","0,45",w,,,,0.45,,
